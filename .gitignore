@@ -11,3 +11,4 @@ wheels/
 .DS_Store
 .env
 .vscode/
+./analiz_prodaz/analiz_prodaz.docx
